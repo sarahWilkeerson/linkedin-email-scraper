@@ -1,0 +1,7 @@
+{
+    "keywords": "Software Engineer",
+    "location": "New York",
+    "country": "USA",
+    "email_type": "gmail",
+    "output_file": "scraped_emails.csv"
+}
